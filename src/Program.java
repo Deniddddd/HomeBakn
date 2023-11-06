@@ -25,7 +25,7 @@ public class Program {
         for (int i = 0; i <banks.length; i++) {
             if(banks[i].price == prices[banks.length-1]) {
                 System.out.println("best price in bank = " + banks[i]);
-            }//vcr hjhfjfhgjd
+            }
         }
     }
 }
